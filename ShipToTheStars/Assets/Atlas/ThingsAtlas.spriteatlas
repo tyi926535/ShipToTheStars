@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ThingsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 934592adc7d35084390065428eec7a70, type: 3}
+    - {fileID: 2800000, guid: cd68fa7957ed91d408ce077530d8e530, type: 3}
+    - {fileID: 2800000, guid: 5cd64f95b9aa9bd429b9e9d8b90c12ae, type: 3}
+    - {fileID: 2800000, guid: 006382815b7b6d34f9807507bead3d7a, type: 3}
+    - {fileID: 2800000, guid: 983b97b49abc61e4780af2e83188b593, type: 3}
+    - {fileID: 2800000, guid: d4dd0118142058d45bd21c58a5f3102e, type: 3}
+    - {fileID: 2800000, guid: fe90a147a202ec74eb6dfdc13972e360, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 006382815b7b6d34f9807507bead3d7a: 21300000
+    - 983b97b49abc61e4780af2e83188b593: 21300000
+    - 5cd64f95b9aa9bd429b9e9d8b90c12ae: 21300000
+    - fe90a147a202ec74eb6dfdc13972e360: 21300000
+    - d4dd0118142058d45bd21c58a5f3102e: 21300000
+    - cd68fa7957ed91d408ce077530d8e530: 21300000
+    - 934592adc7d35084390065428eec7a70: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 006382815b7b6d34f9807507bead3d7a, type: 3}
+  - {fileID: 21300000, guid: 983b97b49abc61e4780af2e83188b593, type: 3}
+  - {fileID: 21300000, guid: 5cd64f95b9aa9bd429b9e9d8b90c12ae, type: 3}
+  - {fileID: 21300000, guid: fe90a147a202ec74eb6dfdc13972e360, type: 3}
+  - {fileID: 21300000, guid: d4dd0118142058d45bd21c58a5f3102e, type: 3}
+  - {fileID: 21300000, guid: cd68fa7957ed91d408ce077530d8e530, type: 3}
+  - {fileID: 21300000, guid: 934592adc7d35084390065428eec7a70, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bomba
+  - klubnika
+  - banana
+  - musor2
+  - musor1
+  - arbuz
+  - apple 1
+  m_RenderDataMap: {}
+  m_Tag: ThingsAtlas
+  m_IsVariant: 0
